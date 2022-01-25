@@ -13,7 +13,7 @@ baseurl: ''
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Sao_Paulo
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -36,7 +36,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Bernardo Lopes de Souza Pereira
+  name: Bernardo Lopes
   email: hi@bernardolopes.me             # change to your email address
   links:
     # The first element serves as the copyright owner's link
