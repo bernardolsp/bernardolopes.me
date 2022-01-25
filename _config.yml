@@ -25,7 +25,7 @@ tagline: Blog for general notes and daily learnings   # it will display as the s
 description: >-                        # used by seo meta and the atom feed
   A small way for me to express what I'm learning with colleagues and friends.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'bernardolopes.me'
+url: 'https://bernardolopes.me'
 
 github:
   username: bernardolsp            # change to your github username
