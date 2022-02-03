@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://bernardolopes.me/posts/external-secrets-operator/</loc>
+<lastmod>2022-01-25T13:11:11-03:00</lastmod>
+</url>
+<url>
+<loc>https://bernardolopes.me/posts/building-a-wordpress-cluster-with-terraform/</loc>
+<lastmod>2022-02-02T19:21:00-03:00</lastmod>
+</url>
+<url>
+<loc>https://bernardolopes.me/categories/</loc>
+<lastmod>2022-02-02T21:40:55-03:00</lastmod>
+</url>
+<url>
+<loc>https://bernardolopes.me/tags/</loc>
+<lastmod>2022-02-02T21:40:55-03:00</lastmod>
+</url>
+<url>
+<loc>https://bernardolopes.me/archives/</loc>
+<lastmod>2022-02-02T21:40:55-03:00</lastmod>
+</url>
+<url>
+<loc>https://bernardolopes.me/about/</loc>
+<lastmod>2022-02-02T21:40:55-03:00</lastmod>
+</url>
+<url>
+<loc>https://bernardolopes.me/</loc>
+</url>
+<url>
+<loc>https://bernardolopes.me/tags/guide/</loc>
+</url>
+<url>
+<loc>https://bernardolopes.me/categories/kubernetes/</loc>
+</url>
+</urlset>
